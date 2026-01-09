@@ -1,5 +1,4 @@
-import type { Advertiser } from '../types';
-import { Icon } from '../App';
+import type { Advertiser } from '../types.ts';
 
 interface AdvertiserDetailPageProps {
   advertiser: Advertiser;
